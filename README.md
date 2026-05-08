@@ -51,7 +51,7 @@ Per executar aquest projecte localment, assegura't de tenir Flutter instal·lat 
     flutter run
     ```
 
-## 📸 Captures de Pantalla
+## 📸 Captures de Pantalla -
 
 
 ---
