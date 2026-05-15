@@ -52,7 +52,10 @@ Per executar aquest projecte localment, assegura't de tenir Flutter instal·lat 
     ```
 
 ## 📸 Captures de Pantalla -
-
+![Inici](captures/1.jpg)
+![Jugadors](captures/2.jpg)
+![Joc](captures/3.jpg)
+![Final](captures/4.jpg)    
 
 ---
 **Curs**: Desenvolupament d'Apps Multiplataforma
